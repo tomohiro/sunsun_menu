@@ -8,4 +8,4 @@ sunsun_menu
 
 ### 使い方
 
-        $ ./sunsun_menu.rb
+    $ ./sunsun_menu.rb
